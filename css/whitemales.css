@@ -1,0 +1,19 @@
+#header{
+	text-align: center
+}
+
+#main{
+	margin: 30px;
+}
+
+
+
+.card{
+	display: inline-block;
+	width: 18rem;
+	vertical-align: top;
+}
+
+.card-img-top{
+	height: 300px;
+}
